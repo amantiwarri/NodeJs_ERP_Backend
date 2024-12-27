@@ -1,0 +1,159 @@
+{
+  "organization": {
+    "name": "Aman Exports",
+    "address": {
+      "street": "",
+      "region": "",
+      "state": "",
+      "city": "",
+      "zipcode": "",
+      "country": ""
+    },
+    "contact": {
+      "mobile": [
+        {
+          "countryCode": "",
+          "mobileNumber": ""
+        }
+      ],
+      "phone": [
+        {
+          "countryCode": "",
+          "phoneNumber": ""
+        }
+      ],
+      "email": ["", ""],
+      "website": ""
+    }
+  },
+  "billingDetails": {
+    "gstNo": "",
+    "address": "",
+    "state": "",
+    "city": "",
+    "zipcode": ""
+  },
+  "dgftRcmcDetail": {
+    "rcmc": "",
+    "issueDate": "",
+    "expiryDate": ""
+  },
+  "contactPerson": {
+    "name": "Mr. SHRIKANT GUPTA",
+    "address": {
+      "street": "",
+      "region": "",
+      "state": "",
+      "city": "",
+      "zipcode": "",
+      "country": ""
+    },
+    "contact": {
+      "mobile": [
+        {
+          "countryCode": "",
+          "mobileNumber": ""
+        }
+      ],
+      "phone": [
+        {
+          "countryCode": "",
+          "phoneNumber": ""
+        }
+      ],
+      "email": [""]
+    },
+    "designation": "",
+    "dob": "",
+    "isAuthorisedRepresentative": "Y"
+  },
+  "directors": [
+    {
+      "name": "Mr. SHRIKANT GUPTA",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "country": ""
+      },
+      "designation": ""
+    }
+  ],
+  "constitution": "",
+  "estdYear": "",
+  "panNumber": "",
+  "tanNumber": "",
+  "exporterType": "",
+  "exportPerformance": [
+    {
+      "year": "",
+      "item": "",
+      "value": ""
+    },
+    {
+      "year": "",
+      "item": "",
+      "value": ""
+    },
+    {
+      "year": "",
+      "item": "",
+      "value": ""
+    }
+  ],
+  "products": [
+    {
+      "id": "",
+      "name": ""
+    },
+    {
+      "id": "",
+      "name": ""
+    }
+  ],
+  "otherProducts": "",
+  "religion": "",
+  "category": "",
+  "iec": {
+    "number": "",
+    "issueDate": "",
+    "issuingAuthority": "",
+    "station": ""
+  },
+  "officeAddress": [
+    {
+      "officeType": "Head Office",
+      "address": {
+        "street": "",
+        "region": "",
+        "state": "",
+        "city": "",
+        "zipcode": "",
+        "country": ""
+      }
+    },
+    {
+      "officeType": "Factory Office",
+      "address": {
+        "street": "",
+        "region": "",
+        "state": "",
+        "city": "",
+        "zipcode": "",
+        "country": ""
+      }
+    },
+    {
+      "officeType": "Branch Office",
+      "address": {
+        "street": "",
+        "region": "",
+        "state": "",
+        "city": "",
+        "zipcode": "",
+        "country": ""
+      }
+    }
+  ]
+}

@@ -17,4 +17,3 @@ process.on("unhandledRejection", (error) => {
   console.log("exception Rejected carefully");
 });
 
-console.log(process.env.COMPUTERNAME);

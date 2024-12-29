@@ -9,7 +9,7 @@ export default function App() {
 
   app.listen(PORT, HTTP_SERVER, () => {
     console.log(`Server started at Port : ${PORT}`);
-    connect();
+    //connect();
   });
   return app;
 }
